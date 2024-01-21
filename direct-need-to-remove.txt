@@ -15,6 +15,7 @@ dysfz.cc
 emacs-china.org
 galaxymacau.com
 galstars.net
+googleapis.com
 haitum.com
 hostloc.com
 jiaoyou8.com
