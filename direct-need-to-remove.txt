@@ -15,7 +15,6 @@ dysfz.cc
 emacs-china.org
 galaxymacau.com
 galstars.net
-gstatic.com
 haitum.com
 hostloc.com
 jiaoyou8.com
@@ -32,3 +31,4 @@ xjp.cc
 yanghengjun.com
 ydy.com
 yslang.com
+www.gstatic.com
